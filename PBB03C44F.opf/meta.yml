@@ -40,3 +40,8 @@ source_metadata:
   - http://purl.bdrc.io/resource/MW1KG4280
 created_at: '2021-12-24T17:18:41.374854'
 last_modified_at: '2021-12-24T17:18:41.374865'
+statistics:
+  total_words: 487478
+  total_non_words: 64158
+quality:
+  non_words_ratio: 0.13
